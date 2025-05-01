@@ -23,7 +23,6 @@ img{
    
 }
 h3{
-   
     padding-left: 50px;
 }
 h2{
@@ -33,7 +32,6 @@ h2{
 h4{
     padding-left: 50px;
     font-size: 30px;
-
     color: white;
 }
 
@@ -41,7 +39,6 @@ h4{
 
 .hero{
     min-height: 1vh;
-   
     background-size: cover;
     background-position: center;
     position: relative;
@@ -89,8 +86,6 @@ nav button{
     border: none;
     cursor: pointer;
     border: 3px solid aqua;
-  
- 
    
 }
 
