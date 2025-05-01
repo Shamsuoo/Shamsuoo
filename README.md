@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shamsuoo
 - 👀 I’m interested in ...having fun
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python,
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...send me an email
 - 😄 Pronouns: ...stactk
